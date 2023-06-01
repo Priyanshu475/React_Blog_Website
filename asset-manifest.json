@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Priyanshu475.github.io/React_Blog_Website/static/css/main.90b1e912.css",
+    "main.js": "/Priyanshu475.github.io/React_Blog_Website/static/js/main.bc526015.js",
+    "static/js/787.6f0453fb.chunk.js": "/Priyanshu475.github.io/React_Blog_Website/static/js/787.6f0453fb.chunk.js",
+    "index.html": "/Priyanshu475.github.io/React_Blog_Website/index.html",
+    "main.90b1e912.css.map": "/Priyanshu475.github.io/React_Blog_Website/static/css/main.90b1e912.css.map",
+    "main.bc526015.js.map": "/Priyanshu475.github.io/React_Blog_Website/static/js/main.bc526015.js.map",
+    "787.6f0453fb.chunk.js.map": "/Priyanshu475.github.io/React_Blog_Website/static/js/787.6f0453fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b1e912.css",
+    "static/js/main.bc526015.js"
+  ]
+}
