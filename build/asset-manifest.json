@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Priyanshu475.github.io/react_project/static/css/main.90b1e912.css",
+    "main.js": "/Priyanshu475.github.io/react_project/static/js/main.cc7e851c.js",
+    "static/js/787.6f0453fb.chunk.js": "/Priyanshu475.github.io/react_project/static/js/787.6f0453fb.chunk.js",
+    "index.html": "/Priyanshu475.github.io/react_project/index.html",
+    "main.90b1e912.css.map": "/Priyanshu475.github.io/react_project/static/css/main.90b1e912.css.map",
+    "main.cc7e851c.js.map": "/Priyanshu475.github.io/react_project/static/js/main.cc7e851c.js.map",
+    "787.6f0453fb.chunk.js.map": "/Priyanshu475.github.io/react_project/static/js/787.6f0453fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b1e912.css",
+    "static/js/main.cc7e851c.js"
+  ]
+}
